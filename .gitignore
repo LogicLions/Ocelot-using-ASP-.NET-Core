@@ -1,0 +1,41 @@
+#Ignore Thumbnails created by windows#
+Thumbs.db
+#Ignore files build by Visual Studio Code#
+**/.vscode/
+#Ignore files build by Visual Studio#
+*.obj
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vs
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Db]ebug
+*.lib
+*.sbr
+*.nupkg
+*.patch
+obj/
+[Rr]elease*/
+_Resharper*/
+.svn
+packages/
+node_modules/
+~$*
+*.exe.config
+*.vhost.exe.config
+*.vhost.exe.config.manifest
+*.pubxml
+*.pubxml.user
+global.json

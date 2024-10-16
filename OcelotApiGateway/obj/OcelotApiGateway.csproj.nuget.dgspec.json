@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\OcelotApiGateway\\OcelotApiGateway.csproj": {}
+    "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\OcelotApiGateway\\OcelotApiGateway.csproj": {}
   },
   "projects": {
-    "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\OcelotApiGateway\\OcelotApiGateway.csproj": {
+    "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\OcelotApiGateway\\OcelotApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\OcelotApiGateway\\OcelotApiGateway.csproj",
+        "projectUniqueName": "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\OcelotApiGateway\\OcelotApiGateway.csproj",
         "projectName": "OcelotApiGateway",
-        "projectPath": "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\OcelotApiGateway\\OcelotApiGateway.csproj",
+        "projectPath": "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\OcelotApiGateway\\OcelotApiGateway.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\OcelotApiGateway\\obj\\",
+        "outputPath": "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\OcelotApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z5dLtAdpV0HGbtY8dSwZoRswhdFpNUHW3U5nUhn3cuHCF0WmZIkl0I73FAnPgGI88TNoSx/efCdzYDRoJ0WvjA==",
+  "dgSpecHash": "rvligpM2UiNhuDcFzItQ2NU8NLw9Y3b/I3+osl4MWiO8dvHjWKYzd+J4j+9tlM9IUCQu/2AU1RETzG5fywNl3g==",
   "success": true,
-  "projectFilePath": "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\OcelotApiGateway\\OcelotApiGateway.csproj",
+  "projectFilePath": "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\OcelotApiGateway\\OcelotApiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\cachemanager.core\\2.0.0-beta-1629\\cachemanager.core.2.0.0-beta-1629.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\cachemanager.microsoft.extensions.configuration\\2.0.0-beta-1629\\cachemanager.microsoft.extensions.configuration.2.0.0-beta-1629.nupkg.sha512",

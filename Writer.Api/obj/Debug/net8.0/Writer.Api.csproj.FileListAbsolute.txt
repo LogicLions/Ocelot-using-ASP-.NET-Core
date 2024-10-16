@@ -37,3 +37,36 @@ E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Writer
 E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Writer.Api\obj\Debug\net8.0\Writer.Api.pdb
 E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Writer.Api\obj\Debug\net8.0\Writer.Api.genruntimeconfig.cache
 E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Writer.Api\obj\Debug\net8.0\ref\Writer.Api.dll
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\appsettings.json
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\Writer.Api.exe
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\Writer.Api.deps.json
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\Writer.Api.runtimeconfig.json
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\Writer.Api.dll
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\Writer.Api.pdb
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.csproj.AssemblyReference.cache
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.AssemblyInfoInputs.cache
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.AssemblyInfo.cs
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.csproj.CoreCompileInputs.cache
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.sourcelink.json
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\staticwebassets\msbuild.Writer.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Writer.Api.props
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Writer.Api.props
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Writer.Api.props
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\scopedcss\bundle\Writer.Api.styles.css
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.csproj.Up2Date
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.dll
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\refint\Writer.Api.dll
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.pdb
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\Writer.Api.genruntimeconfig.cache
+E:\Coding_Practice\GitHub\Ocelot-using-ASP-.NET-Core\Writer.Api\obj\Debug\net8.0\ref\Writer.Api.dll

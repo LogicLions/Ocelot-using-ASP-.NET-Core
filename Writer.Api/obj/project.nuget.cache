@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t25iPaLDTy1DanbcdP47GbMM0KEIEoHebyBPX6r3myiwHZQTAeb4ZWmqvFarm1gi9w8q6gwg1nZf7a4m0aHEdA==",
+  "dgSpecHash": "VcrMBrkw+RMclq+EhStWAR8JqofFJWELByaHebDuSQmm5RreBKglKix/8bUXfx4x+FeGlN9fABpH69zVGNlxEg==",
   "success": true,
-  "projectFilePath": "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\Writer.Api\\Writer.Api.csproj",
+  "projectFilePath": "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\Writer.Api\\Writer.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

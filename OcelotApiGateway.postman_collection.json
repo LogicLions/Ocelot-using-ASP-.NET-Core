@@ -1,0 +1,80 @@
+{
+	"info": {
+		"_postman_id": "6fe487c2-151b-410f-8ca4-05103c5c4e97",
+		"name": "OcelotApiGateway",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39065640"
+	},
+	"item": [
+		{
+			"name": "Get All Writers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7249/gateway/writers",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7249",
+					"path": [
+						"gateway",
+						"writers"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Writer By Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7249/gateway/writers/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7249",
+					"path": [
+						"gateway",
+						"writers",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create New Writer",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Id\": 4,\r\n    \"Name\":\"Guru Madhavan\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7249/gateway/writers",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7249",
+					"path": [
+						"gateway",
+						"writers"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

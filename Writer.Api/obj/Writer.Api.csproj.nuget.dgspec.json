@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\Writer.Api\\Writer.Api.csproj": {}
+    "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\Writer.Api\\Writer.Api.csproj": {}
   },
   "projects": {
-    "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\Writer.Api\\Writer.Api.csproj": {
+    "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\Writer.Api\\Writer.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\Writer.Api\\Writer.Api.csproj",
+        "projectUniqueName": "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\Writer.Api\\Writer.Api.csproj",
         "projectName": "Writer.Api",
-        "projectPath": "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\Writer.Api\\Writer.Api.csproj",
+        "projectPath": "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\Writer.Api\\Writer.Api.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding_Practice\\GitHub\\Ocelot using ASP .NET Core\\ApiGatewayWithOcelot\\Writer.Api\\obj\\",
+        "outputPath": "E:\\Coding_Practice\\GitHub\\Ocelot-using-ASP-.NET-Core\\Writer.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
