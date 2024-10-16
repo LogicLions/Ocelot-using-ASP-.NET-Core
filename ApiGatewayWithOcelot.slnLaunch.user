@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Article.Api\\Article.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "Writer.Api\\Writer.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "OcelotApiGateway\\OcelotApiGateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

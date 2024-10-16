@@ -1,0 +1,39 @@
+E:\Coding_Practice\GitHub\Shopping-Cart-using-Microservices\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.csproj.AssemblyReference.cache
+E:\Coding_Practice\GitHub\Shopping-Cart-using-Microservices\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding_Practice\GitHub\Shopping-Cart-using-Microservices\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.AssemblyInfoInputs.cache
+E:\Coding_Practice\GitHub\Shopping-Cart-using-Microservices\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.AssemblyInfo.cs
+E:\Coding_Practice\GitHub\Shopping-Cart-using-Microservices\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.csproj.CoreCompileInputs.cache
+E:\Coding_Practice\GitHub\Shopping-Cart-using-Microservices\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Coding_Practice\GitHub\Shopping-Cart-using-Microservices\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.sourcelink.json
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\appsettings.json
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\Article.Api.exe
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\Article.Api.deps.json
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\Article.Api.runtimeconfig.json
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\Article.Api.dll
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\Article.Api.pdb
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.csproj.AssemblyReference.cache
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.AssemblyInfoInputs.cache
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.AssemblyInfo.cs
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.csproj.CoreCompileInputs.cache
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\staticwebassets\msbuild.Article.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Article.Api.props
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Article.Api.props
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Article.Api.props
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\scopedcss\bundle\Article.Api.styles.css
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article..950257A9.Up2Date
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.dll
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\refint\Article.Api.dll
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.pdb
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\Article.Api.genruntimeconfig.cache
+E:\Coding_Practice\GitHub\Ocelot using ASP .NET Core\ApiGatewayWithOcelot\Article.Api\obj\Debug\net8.0\ref\Article.Api.dll

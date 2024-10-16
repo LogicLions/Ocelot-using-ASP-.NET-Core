@@ -1,0 +1,52 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7249"
+  },
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/writers",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/writers",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7243
+        }
+      ],
+      "RateLimitOptions": {
+        "EnableRateLimiting": true,
+        "Period": "10s", // Within 10 seconds requests allowed. s=seconds, m=minutes, h=hours.
+        "Limit": 3, // Number of requests to limit
+        "PeriodTimespan": 10 // Number of seconds to wait after limit crosses for requests
+      },
+      "FileCacheOptions": {
+        "TtlSeconds": 10  // cache time
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/writers/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/writers/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7243
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/writers",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/writers",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7243
+        }
+      ]
+    }
+  ]
+}

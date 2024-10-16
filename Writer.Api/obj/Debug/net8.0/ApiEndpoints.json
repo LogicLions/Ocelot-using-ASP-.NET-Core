@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Writer.Api.Controllers.WritersController",
+    "Method": "Get",
+    "RelativePath": "api/Writers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Writer.Api.Controllers.WritersController",
+    "Method": "Create",
+    "RelativePath": "api/Writers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "writer",
+        "Type": "Writer.Api.Models.Writer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Writer.Api.Controllers.WritersController",
+    "Method": "Get",
+    "RelativePath": "api/Writers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Writer", "Writer", "{40CCE0B0-0935-47C5-B0AB-DA110C155943}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Writer.Api", "Writer.Api\Writer.Api.csproj", "{918B78AC-7032-46E2-A63B-047C56DFB124}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{720DE6F7-2E6A-47FC-B6C5-302D290CDE9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OcelotApiGateway", "OcelotApiGateway\OcelotApiGateway.csproj", "{FB53914B-58E4-4865-B74E-F84E63E212EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918B78AC-7032-46E2-A63B-047C56DFB124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918B78AC-7032-46E2-A63B-047C56DFB124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918B78AC-7032-46E2-A63B-047C56DFB124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918B78AC-7032-46E2-A63B-047C56DFB124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB53914B-58E4-4865-B74E-F84E63E212EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB53914B-58E4-4865-B74E-F84E63E212EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB53914B-58E4-4865-B74E-F84E63E212EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB53914B-58E4-4865-B74E-F84E63E212EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{918B78AC-7032-46E2-A63B-047C56DFB124} = {40CCE0B0-0935-47C5-B0AB-DA110C155943}
+		{FB53914B-58E4-4865-B74E-F84E63E212EB} = {720DE6F7-2E6A-47FC-B6C5-302D290CDE9E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {456FF1E8-F34C-48ED-9C57-4E9F9FA4F67F}
+	EndGlobalSection
+EndGlobal
